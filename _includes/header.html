@@ -12,47 +12,48 @@
 					<a href="/index.html">Home</a>
 				</li>			
 			{% endif %}
-			{% if page.path == "archive.html" %}
-			<span class="title">
-				<li>
-					<a href="/archive.html">About</a>
-				</li>
-			</span>			
-			{% else %}
-				<li>
-					<a href="/archive.html">About</a>
-				</li>			
-			{% endif %}
-			{% if page.path == "category.html" %}
-			<span class="title">
-				<li>
-					<a href="/category.html">Research</a>
-				</li>
-			</span>			
-			{% else %}
-				<li>
-					<a href="/category.html">Research</a>
-				</li>			
-			{% endif %}
 			{% if page.path == "about.html" %}
 			<span class="title">
 				<li>
-					<a href="/about.html">Essays</a>
+					<a href="/about.html">About</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/about.html">Essays</a>
+					<a href="/about.html">About</a>
 				</li>			
 			{% endif %}
+			{% if page.path == "research.html" %}
 			<span class="title">
 				<li>
-					<a href="/about.html">Blog</a>
+					<a href="/research.html">Research</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/about.html">Blog</a>
+					<a href="/research.html">Research</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "essays.html" %}
+			<span class="title">
+				<li>
+					<a href="/essays.html">Essays</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/essays.html">Essays</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "blog.html" %}
+			<span class="title">
+				<li>
+					<a href="/blog.html">Blog</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/blog.html">Blog</a>
 				</li>			
 			{% endif %}
 		</div>
