@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% assign post = site.posts.first %}
+    {% for post in site.posts %}{% assign post = site.posts.first %}
       <li>
         <br>
         <h3>
