@@ -5,5 +5,4 @@ date:   2017-12-26 17:53:30
 categories: 
 ---
 
-While reading the recent issue of JAMA Dermatology, a reference to “Grave disease” caught my eye (the correct spelling of the eponym honoring Dr. Graves). This called to mind a paper I had once seen discussing the use of possessive and non-possessive forms of medical eponyms. Taking the opportunity to point out this error and potentially offer some insight, I I quickly sought out that paper and formulated my thoughts. I offered this in submission as a Letter to the Editor, but as the journal declined to publish my commentary, I share it here in their stead: [A (Not So) Grave Omission](patel)
-(patel):  http://www.psphelan.com/docs/re-patel.html
+While reading the recent issue of JAMA Dermatology, a reference to “Grave disease” caught my eye (the correct spelling of the eponym honoring Dr. Graves). This called to mind a paper I had once seen discussing the use of possessive and non-possessive forms of medical eponyms. Taking the opportunity to point out this error and potentially offer some insight, I I quickly sought out that paper and formulated my thoughts. I offered this in submission as a Letter to the Editor, but as the journal declined to publish my commentary, I share it here in their stead: [A (Not So) Grave Omission](http://www.psphelan.com/docs/re-patel.html).
