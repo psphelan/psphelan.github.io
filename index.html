@@ -2,10 +2,22 @@
 layout: default
 ---
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts limit:1 %}
+      <li>
+        <br>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y %H:%m" }}</span>
+        <hr id="line">
+		<div class="content">
+		 {{ post.excerpt | strip_html | truncatewords:75 }}
+        </div>
+		<br>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
-
 
