@@ -7,7 +7,7 @@ categories: Evidence-Based Medicine
 
 <img src="/images/JJ 2018.png" align="center">
   <br><br>
-Jefferson & Jørgensen recently wrote an interesting editorial in <i>BMJ Evidence-Based Medicine</i>, <a href=“http://dx.doi.org/10.1136/bmjebm-2018-110918”>Redefining the ‘E’ in EBM</a>, discussing the nature of evidence and the messy search for it in the current research environment. A couple quotes are worth pulling out:
+Jefferson & Jørgensen recently wrote an interesting editorial in <i>BMJ Evidence-Based Medicine</i>, "[Redefining the ‘E’ in EBM](http://dx.doi.org/10.1136/bmjebm-2018-110918)," discussing the nature of evidence and the messy search for it in the current research environment. A couple quotes are worth pulling out:
   <br>
 <blockquote>“By the law of Garbage In Garbage Out, whatever we produce in our reviews will be systematically assembled and synthesised garbage with a nice Cochrane logo on it.”</blockquote>
 
