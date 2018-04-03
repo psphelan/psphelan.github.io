@@ -13,7 +13,7 @@ Jefferson & Jørgensen recently wrote an interesting editorial in <i>BMJ Evidenc
 
 Reading this amusing line reminded me of an even more amusing exchange from the <i>Friends</i> episode, “The One with the Dirty Girl” (Season 4, Episode 6), where Ross gives the following short rant:
   <br><br>
-<iframe width="420" height="315" align="center"
+<iframe width="336" height="252" align="center"
 src="https://www.youtube.com/embed/--gnIp8cAzA">
 </iframe>
   <br><br>
