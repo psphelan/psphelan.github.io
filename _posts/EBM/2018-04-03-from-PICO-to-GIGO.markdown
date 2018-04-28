@@ -2,7 +2,7 @@
 layout: post
 title:  "From PICO to GIGO"
 date:   2018-04-03 07:35:00
-categories: "Evidence-Based Medicine"
+categories: "EBM"
 ---
 
 <img src="/images/JJ 2018.png" align="center">
