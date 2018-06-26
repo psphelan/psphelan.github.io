@@ -67,6 +67,17 @@
 					<a href="/archive.html">Archive</a>
 				</li>			
 			{% endif %}
+			{% if page.path == "collections.html" %}
+			<span class="title">
+				<li>
+					<a href="/collections.html">Collections</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/collections.html">Collections</a>
+				</li>			
+			{% endif %}
 		</div>
 		<div class="description"> {{ site.motto }} </div>			
 	</div>
