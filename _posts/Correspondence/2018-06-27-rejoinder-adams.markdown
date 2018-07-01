@@ -7,4 +7,6 @@ categories: Correspondence
 
 I recently published a correspondence item assessing Adams and O’Reilly’s original article in the <i>Journal of Clinical Epidemiology</i>, which they titled “A likelihood-based approach to P-value interpretation provided a novel, plausible, and clinically useful research study metric.” Adams responded to my critique, but I found that his rebuttals deserved to be addressed and my original criticisms clarified. I have provided the current rejoinder to do so.
   <br><br>
+(Edit June 30, 2018: I have added this manuscript to ResearchGate as a <a href="https://dx.doi.org/10.13140/RG.2.2.35698.20166">citeable preprint</a>.)
+  <br><br>
 <iframe src="https://drive.google.com/file/d/1yUfSt_i8ZGpbQ8bubp89N3eTPUbEwfNH/preview" width="100%" height="950"></iframe>
