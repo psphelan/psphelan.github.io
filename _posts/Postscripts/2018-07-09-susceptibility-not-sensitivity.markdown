@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Susceptibility, not sensitivity"
+title:  "P.S. Susceptibility, not sensitivity"
 date:   2018-07-09 17:38:30
 categories: Postscripts
 ---
