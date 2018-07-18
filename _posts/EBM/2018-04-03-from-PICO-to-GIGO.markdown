@@ -23,7 +23,11 @@ Transcript:
   <br><br>
 Joey: Yeah...
   <br><br>
-Ross: Well, like that, only that instead of a chair it's a pile of garbage. And instead of a jacket it's a pile of garbage. And instead of the end of the day it's the end of time, and garbage is all that has survived.</blockquote>
+Ross: Well, like that, only that instead of a chair it's a pile of garbage. 
+  <br><br>
+  And instead of a jacket it's a pile of garbage. 
+  <br><br>
+  And instead of the end of the day it's the end of time, and garbage is all that has survived.</blockquote>
 
 On a more serious note, Jefferson & Jørgensen end with a line worth remembering, inviting the reader to consider more deeply the issues they discuss:
   <br>
