@@ -26,3 +26,7 @@ As an example, a concave Beta prior over a parameter space from [0,1] provides a
 
 <img src=“/images/pincushion.png” align=“center”>
 
+<br><br>
+Because the "head" of the pin exists at discrete location above the pincushion, but the spike has infinite density (extending 
+upward infinitely along the y-axis), I have included a dashed line with an upward-pointing arrow above the head to indicate
+this.
