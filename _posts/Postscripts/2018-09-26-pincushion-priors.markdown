@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P.S. "Pincushion" Priors"
+title:  "P.S. Pincushion Priors"
 date:   2018-09-26 09:49:30
 categories: Postscripts
 ---
