@@ -14,11 +14,11 @@ a Dirac delta “function” to represent the spike as a point mass with infinit
 <br><br>
 A neologism for these models which I’ve come up with (and which is original, as far as I can tell from searching 
 the internet) is that of the "pincushion prior." The "slab" portion of the prior resembles a pincushion (especially 
-when concave overall), and the “spike” resembles a pin inserted into the cushion from above. Perhaps this construction 
+when convex overall), and the “spike” resembles a pin inserted into the cushion from above. Perhaps this construction 
 isn’t particularly helpful to anyone, but I find it an accurate (and possibly amusing) portrayal of what a spike-and-slab 
 prior looks like.
 <br><br>
-As an example, a concave Beta prior over a parameter space from [0,1] provides a nice pincushion, and a Dirac delta spike at the midpoint provides a nice pin. The illustration is shown below, and (following the notation in Rouder et al., 2018, where
+As an example, a convex Beta prior over a parameter space from [0,1] provides a nice pincushion, and a Dirac delta spike at the midpoint provides a nice pin. The illustration is shown below, and (following the notation in Rouder et al., 2018, where
 <img src="http://mathurl.com/y78ujqls.png"> denotes the Dirac delta function and <img src="http://mathurl.com/y8mutu3h.png"> denotes the Beta density) the prior distribution is given as:
 <br><br>
 <p align="center"><img src="http://mathurl.com/yddgdsuq.png" align="center"></p>
