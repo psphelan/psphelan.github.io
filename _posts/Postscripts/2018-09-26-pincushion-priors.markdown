@@ -8,7 +8,7 @@ categories: Postscripts
 So-called “spike-and-slab” models are a prominent choice for prior distributions of parameters in Bayesian analysis, 
 consisting of a probability “spike” at a value of <i>a priori</i> interest (often a “null” value) and a “slab” distributing 
 the remaining probability mass across the parameter space. 
-<a href=“https://link.springer.com/article/10.3758/s13423-017-1420-7”>Rouder and colleagues (2018)</a> provide an excellent 
+[Rouder and colleagues (2018)](https://link.springer.com/article/10.3758/s13423-017-1420-7) provide an excellent 
 discussion of these archetypal models in Bayesian analysis, and provide a formulation of the spike-and-slab prior using 
 a Dirac delta “function” to represent the spike as a point mass with infinite probability density.
 <br><br>
