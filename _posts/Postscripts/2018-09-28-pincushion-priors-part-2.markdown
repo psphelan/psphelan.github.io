@@ -19,10 +19,10 @@ and
 <br>
 <p align="center"><img src="http://mathurl.com/yav55rl8.png"></p>
 <br><br>
-the areas (<i>A<i>) of the pinheads for the illustrations of <img src="http://mathurl.com/y7oqxxrn.png"> and 
+the areas (<i>A</i>) of the pinheads for the illustrations of <img src="http://mathurl.com/y7oqxxrn.png"> and 
 <img src="http://mathurl.com/ybn6b6c6.png"> should be illustrated such that:
 <br><br> 
-<p align="center"><img src="http://mathurl.com/ybnhv55f.png">
+<p align="center"><img src="http://mathurl.com/ybnhv55f.png"></p>
 <br><br>
 An example is shown below for <img src="http://mathurl.com/y84vqcus.png"> with the spike probability masses unspecified.
 <br>
