@@ -5,7 +5,7 @@ date:   2018-09-28 13:38:30
 categories: Postscripts
 ---
 
-it seems to me that a natural extension of the [pincushion prior concept](http://www.psphelan.com/postscripts/2018/09/26/pincushion-priors.html)
+It seems to me that a natural extension of the [pincushion prior concept](http://www.psphelan.com/postscripts/2018/09/26/pincushion-priors.html)
 is to use the head of the pin to represent the probability mass attributed to the spike. When comparing to spike-and-slab 
 models attributing different masses to the spikes(regardless of the respective slab models), the size of the pinhead can 
 be illustrated such that is proportional to the respective probability mass.
