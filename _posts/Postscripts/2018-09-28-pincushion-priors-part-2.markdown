@@ -24,4 +24,4 @@ the areas (<i>A</i>) of the pinheads for the illustrations of <img src="http://m
 <br>
 An example is shown below for <img src="http://mathurl.com/y84vqcus.png"> with the spike probability masses unspecified.
 <br>
-<img src="/images/Double pincushion 1000_450.png" align="center">
+<img src="/images/Double pincushion no y 1000_450.png" align="center">
