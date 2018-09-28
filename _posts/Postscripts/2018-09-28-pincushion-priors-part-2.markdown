@@ -14,16 +14,14 @@ Thus, for two spike-and-slab models <img src="http://mathurl.com/y7oqxxrn.png"> 
 given as
 <br><br>
 <p align="center"><img src="http://mathurl.com/ya77jo26.png">
+  <br>
+<img src="http://mathurl.com/yav55rl8.png"></p>
 <br>
-and
-<br>
-<p align="center"><img src="http://mathurl.com/yav55rl8.png"></p>
-<br><br>
 the areas (<i>A</i>) of the pinheads for the illustrations of <img src="http://mathurl.com/y7oqxxrn.png"> and 
 <img src="http://mathurl.com/ybn6b6c6.png"> should be illustrated such that:
 <br><br> 
 <p align="center"><img src="http://mathurl.com/ybnhv55f.png"></p>
-<br><br>
+<br>
 An example is shown below for <img src="http://mathurl.com/y84vqcus.png"> with the spike probability masses unspecified.
 <br>
 <img src="/images/Double pincushion 1000_450.png" align="center">
