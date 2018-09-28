@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "P.S. Pincushion Priors, Part 2"
-date:   2018-09-28 13:38:30
+date:   2018-09-28 15:00:30
 categories: Postscripts
 ---
 
@@ -22,6 +22,7 @@ the areas (<i>A</i>) of the pinheads for the illustrations of <img src="http://m
 <br><br> 
 <p align="center"><img src="http://mathurl.com/ybnhv55f.png"></p>
 <br>
-An example is shown below for <img src="http://mathurl.com/y84vqcus.png"> with the spike probability masses unspecified.
+An example is shown below for <img src="http://mathurl.com/y84vqcus.png"> with the spike probability masses unspecified. Note 
+that the <i>y</i>-axis scales for probability density will differ when the spike masses differ, so the labels are omitted here.
 <br>
 <img src="/images/Double pincushion no y 1000_450.png" align="center">
