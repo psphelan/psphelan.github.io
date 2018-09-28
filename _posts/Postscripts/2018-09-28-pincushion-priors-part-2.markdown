@@ -14,7 +14,7 @@ Thus, for two spike-and-slab models <img src="http://mathurl.com/y7oqxxrn.png"> 
 given as
 <br><br>
 <p align="center"><img src="http://mathurl.com/ya77jo26.png">
-  <br>
+  <br><br>
 <img src="http://mathurl.com/yav55rl8.png"></p>
 <br>
 the areas (<i>A</i>) of the pinheads for the illustrations of <img src="http://mathurl.com/y7oqxxrn.png"> and 
