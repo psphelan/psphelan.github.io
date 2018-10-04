@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>    
-  <style>
+  <body>
+    {% include header.html %}
+    <br>
+    <div class="page-content">
+      <style>
 .collapsible {
   background-color: #777;
   color: white;
@@ -25,11 +29,6 @@
   background-color: #f1f1f1;
 }
 </style>
-
-  <body>
-    {% include header.html %}
-    <br>
-    <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
