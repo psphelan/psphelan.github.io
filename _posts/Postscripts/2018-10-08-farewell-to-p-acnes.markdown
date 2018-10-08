@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "P.S. Farewell to <i>P. acnes</i>?"
+title:  "P.S. Farewell to P. acnes?"
 date:   2018-10-08 10:18:30
 categories: Postscripts
 ---
