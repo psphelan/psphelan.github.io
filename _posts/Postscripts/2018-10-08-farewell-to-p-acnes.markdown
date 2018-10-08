@@ -32,5 +32,5 @@ considered. I can conceive of good reasons why clarity in marketing and product 
 patient navigation of products, but the onus upon producers to maintain such clarity is their concern; it does not, in my 
 opinion, merit consideration in the choice of nomenclature.
 <br><br>
-Overall I think the authors’ reasoning for preserving <i>P. acnes</i> may be sufficient, but I don’t find their argumentative 
+Overall I think the authors’ desire to preserve <i>P. acnes</i> may be defensible, but I don’t find their argumentative 
 approach particularly persuasive.
