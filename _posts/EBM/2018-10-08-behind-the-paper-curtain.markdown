@@ -33,12 +33,9 @@ The study abstract provides disheartening summaries:
 <blockquote>“The redactions were most widespread in those sections of the protocol where there is empirical evidence of 
 substantial problems with the trustworthiness of published drug trials…”</blockquote>
 <br>
-The message to take from this study is related to that emphasized by Jefferson &amp; Jørgensen, “In the last decade, evidence 
-has accumulated, across a spectrum of different interventions, that journal publications cannot be trusted.” Apparently, 
-neither can profit-driven funders be trusted to provide the means for investigators to evaluate the trustworthiness of the 
-publications. It seems the claim to “trade secrets” provides an opaque “paper curtain” behind which corporations can conceal 
-whatever they wish, and cutting through requires considerable investigatory effort to attempt to appraise the methodology 
-underlying published research.
+The message to take from this study is related to that emphasized by Jefferson &amp; Jørgensen, 
+<blockquote>“In the last decade, evidence 
+has accumulated, across a spectrum of different interventions, that journal publications cannot be trusted.”</blockquote> Apparently, neither can profit-driven funders be trusted to provide the means for investigators to evaluate the trustworthiness of the publications. It seems the claim to “trade secrets” provides an opaque “paper curtain” behind which corporations can conceal whatever they wish, and cutting through requires considerable investigatory effort to attempt to appraise the methodology underlying published research.
 <br><br>
 In a letter commenting on this study, [Will &amp; Noble (2018)](http://journals.sagepub.com/doi/full/10.1177/0141076818783303) observe that, 
 <br>
