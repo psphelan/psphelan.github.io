@@ -7,8 +7,7 @@ categories: Postscripts
 
 Alexeyev and colleagues recently published a letter in the <i>British Journal of Dermatology</i> entitled, <a href="https://onlinelibrary.wiley.com/doi/10.1111/bjd.17085">
 “Why we continue to the use the name <i>Propionibacterium acnes</i></a>,” in which they defended retaining this binomial 
-nomenclature in opposition to the recent proposal to reclassify the <i>Propionibacterium</i> genus (<a href="http://www.microbiologyresearch.org/docserver/fulltext/ijsem/66/11/4422_ijsem001367.pdf?expires=1539012964&id=id&accname=guest&checksum=D1363D31920FBE5CE40E7856EAF9A0A8">
-Scholz & Kilian, 2016</a>).
+nomenclature in opposition to the recent proposal to reclassify the <i>Propionibacterium</i> genus (<a href="http://www.microbiologyresearch.org/docserver/fulltext/ijsem/66/11/4422_ijsem001367.pdf?expires=1539012964&id=id&accname=guest&checksum=D1363D31920FBE5CE40E7856EAF9A0A8">Scholz & Kilian, 2016</a>).
 
 The proposed reclassification would split the existing <i>Propionibacterium</i> species to genera 
 <i>Acidopropionibacterium</i>, <i>Pseudopropionibacterium</i>, and <i>Cutibacterium</i>, with this last category containing 
