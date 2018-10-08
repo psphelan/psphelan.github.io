@@ -16,7 +16,7 @@ information, trade secrets or intellectual property.”
 <br><br>
 I won’t summarize the entire paper, but needless to say the results constitute a piercing indictment of the industry-sponsored 
 medical research complex. Here are a few highlights:
-<br>
+<br><br>
 <ul style=“list-style-type:square”>
 <li>It took <b><i>three years</i></b> for the authors to receive the full set of 78 trial protocols requested, and 
 “several companies refused to provide their protocol and involved their lawyers.”</li>
@@ -29,7 +29,7 @@ missing related documents.</li>
 the (17) redacted protocols, redaction pattern was highly variable and heterogeneous, with redaction identifiable in at 
 least one case for almost every variable.</li>
 </ul>
-<br>
+<br><br>
 The study abstract provides disheartening summaries:
 <br>
 <blockquote>“The redactions were most widespread in those sections of the protocol where there is empirical evidence of 
