@@ -5,9 +5,11 @@ date:   2018-10-08 11:35:00
 categories: EBM
 ---
 
+<img src="/images/MM et al 2018.png" align="center">
+<br><br>
 Earlier this year Marquardsen and colleagues published a sobering study in the <i>Journal of the Royal Society of Medicine</i> 
-entitled “<a href=“http://journals.sagepub.com/doi/abs/10.1177/0141076817750554”>Redactions in protocols for drug trials: 
-what industry sponsors concealed</a>,” in which the authors requested a number of clinical trial protocols (and any related 
+entitled “[Redactions in protocols for drug trials: 
+what industry sponsors concealed](http://journals.sagepub.com/doi/abs/10.1177/0141076817750554),” in which the authors requested a number of clinical trial protocols (and any related 
 documents) and surveyed the materials received for censorship. They note at the outset that commercial entities are 
 well-known to be uncomfortable with releasing such materials, often claiming that “they contain commercially sensitive 
 information, trade secrets or intellectual property.”
@@ -40,8 +42,7 @@ publications. It seems the claim to “trade secrets” provides an opaque “pa
 whatever they wish, and cutting through requires considerable investigatory effort to attempt to appraise the methodology 
 underlying published research.
 <br><br>
-In a letter commenting on this study, <a href=“http://journals.sagepub.com/doi/full/10.1177/0141076818783303”>Will &amp; 
-Noble (2018)</a> observe that, 
+In a letter commenting on this study, [Will &amp; Noble (2018)](http://journals.sagepub.com/doi/full/10.1177/0141076818783303) observe that, 
 <br>
 <blockquote>“Arguably, the incomplete records provided in the modern, economically practical, model of science publication 
 cannot sustain trust of science in the community…”</blockquote>
