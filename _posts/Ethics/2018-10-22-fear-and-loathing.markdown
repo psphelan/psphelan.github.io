@@ -4,6 +4,7 @@ title:  "Fear and Loathing in Public Health, Part 1"
 date:   2018-10-22 9:40:30
 categories: Ethics
 ---
+
 <img src="/images/Chapman.png">
 To my ear, the term “fearmongering” has a pejorative connotation, but in writing this post I was surprised to find that my 
 dictionary did not indicate this in its definition:
@@ -52,7 +53,7 @@ discussion of C4.
 effectiveness. I am comfortable considering the question of effectiveness of to be “prior to” the question of ethicality 
 in this case.</i>
 <br><br>
-<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of [more substantive measures.]”</h4><br>
+<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of \[more substantive measures.]”</h4><br>
 <b>Chapman:</b> (i) Virtually all major prevention programs entail both “policy reforms and motivational interventions.” 
 (ii) The implication (C2a) “that until governments are prepared to embrace the full panoply of policy and program solutions 
 to health problems, they should not implement any individual element of such comprehensive approaches” is incorrect. (iii) 
@@ -177,7 +178,7 @@ structural interventions intended to decrease smoking at the population level, s
 smoking in public places, etc. Thus, I do not find Chapman’s example instructive in refuting C4 (or C4b).
 <br><br>
 <h4>C5: “…we should always avoid messaging that might upset people.”</h4><br>
-<b>Chapman:</b> [Chapman states that “two subtexts” underlie this argument, but lists only one] There is an implied premise 
+<b>Chapman:</b> \[Chapman states that “two subtexts” underlie this argument, but lists only one] There is an implied premise 
 that we have (roughly) a duty to avoid challenging others’ judgments, but such challenges are common and sometimes lead to 
 change (presumably positive), despite making us uncomfortable.
 <br><br>
@@ -189,7 +190,7 @@ Furthermore, almost any conceivable message has a plausibly non-zero probability
 <br><br>
 Accordingly, I reject the absolutism in Chapman’s construction of the fifth criticism. I find that the phrasing 
 (“always”, “might”) presents a straw man of sorts, an unrealistic criticism against which Chapman can easily advance 
-counterarguments. Consider an emended(*) fifth criticism:
+counterarguments. Consider an emended(\*) fifth criticism:
 <br><br>
 <b>C5*:</b> We have a duty to avoid messaging that we can reasonably expect to be unacceptably upsetting (or distressing, 
 disturbing, etc.) to its recipients, where the weight of this duty is (for example) proportional to the degree of 
