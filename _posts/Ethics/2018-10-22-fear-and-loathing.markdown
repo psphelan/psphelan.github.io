@@ -30,7 +30,7 @@ with my commentary after each.
 <b>Chapman:</b> (i) FMC <i>is effective</i>, and (ii) sustained criticism based on effectiveness appears to be mostly 
 leveled against FMC in comparison to more “positive” messaging campaigns, “suggesting this criticism is enlisted to 
 support more primary objections about fear campaigns.”
-<br>
+<br><br>
 <b>Phelan:</b> I find this criticism relatively uninteresting. Certainly, if a method <i>is</i> wholly ineffective 
 (operationalized as e.g. average net effect ≤ 0), then from a consequentialist perspective its implementation constitutes 
 at best a waste of resources and at worst a net harm to someone involved. However, evaluation of whether FMC has a 
@@ -59,7 +59,7 @@ in this case.</i>
 to health problems, they should not implement any individual element of such comprehensive approaches” is incorrect. (iii) 
 Messaging to promote positive personal health behaviors “will always be needed.” (iv) C2 falls to a 
 <i>reductio ad absurdum</i> entailing that “attention-getting warning signs and poison labels are unethical.”
-<br>
+<br><br>
 <b>Phelan:</b> If Chapman’s assertion in (i) is true, this would constitute a severe blow to C2, but we should note that 
 its relevance to C2 is contingent on the second clause in the latter (i.e. what I will call the ‘alternative adoption 
 assertion’ that FMC is employed as an alternative to comprehensive reforms). The core of C2 appears to be the ‘targeting 
@@ -142,7 +142,7 @@ beyond the individual.</h4><br>
 <b>Chapman:</b> (i) Views of human behavior that essentially deny agency are extreme and relatively untenable, except 
 through the perspective of strict determinism. (ii) “It is instructive, for example, to reflect that today in many nations, 
 it is only a minority of the lowest socioeconomic group who still smokes.”
-<br>
+<br><br>
 <b>Phelan:</b> If you find (i) confusing, I’m right there with you. It would seem from Chapman’s phrasing that if I endorse 
 a strict determinist view of behavior, my judgment that FMC is futile (for example) is exempt from his critique of extremity. 
 This leads to the somewhat strange result that I can advance C4 against FMC with no explicit rebuttal, though (ii) must of 
@@ -226,10 +226,10 @@ as they only apply to the absurd absolutism in his original construction of C5.
 <br><br>
 In summary, I would assess Chapman’s presentation of the “five criticisms” as follows:
 <br><br>
-C1: Fairly constructed, and Chapman’s response conceded.<br>
-C2: Weakly constructed, but Chapman’s responses fail.<br>
-C3: Fairly constructed, but Chapman’s responses fail.<br>
-C4: Incompletely constructed, and Chapman’s responses fail.<br>
-C5: Unacceptably weakly constructed. Chapman’s responses are incomplete, and fail against emended construction.<br>
+<b>C1:</b> Fairly constructed, and Chapman’s response conceded.<br>
+<b>C2:</b> Weakly constructed, but Chapman’s responses fail.<br>
+<b>C3:</b> Fairly constructed, but Chapman’s responses fail.<br>
+<b>C4:</b> Incompletely constructed, and Chapman’s responses fail.<br>
+<b>C5:</b> Unacceptably weakly constructed. Chapman’s responses are incomplete, and fail against emended construction.<br>
 <br><br>
 <i>…to be continued in Part 2</i>.
