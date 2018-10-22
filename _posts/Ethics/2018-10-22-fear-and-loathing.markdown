@@ -53,7 +53,7 @@ discussion of C4.
 effectiveness. I am comfortable considering the question of effectiveness of to be “prior to” the question of ethicality 
 in this case.</i>
 <br><br>
-<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of \[more substantive measures.]”</h4><br>
+<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of \[more substantive measures.\]”</h4><br>
 <b>Chapman:</b> (i) Virtually all major prevention programs entail both “policy reforms and motivational interventions.” 
 (ii) The implication (C2a) “that until governments are prepared to embrace the full panoply of policy and program solutions 
 to health problems, they should not implement any individual element of such comprehensive approaches” is incorrect. (iii) 
@@ -65,7 +65,7 @@ its relevance to C2 is contingent on the second clause in the latter (i.e. what 
 assertion’ that FMC is employed as an alternative to comprehensive reforms). The core of C2 appears to be the ‘targeting 
 distinction,’ where it may be morally relevant (if true) that FMC targets victims rather than underlying causes of 
 undesirable behaviors. I do not see that this targeting distinction necessarily entails alternative adoption, and so 
-while I am willing to grant Chapman the truth of (i), I would truncate C2 to only the targeting distinction (C2*). In this 
+while I am willing to grant Chapman the truth of (i), I would truncate C2 to only the targeting distinction (C2\*). In this 
 form it provides only an implied argument against FMC, which I would state as (C2b) that the ethical character of FMC is 
 thus inferior to alternative approaches which target causes (and that such alternatives are thus ethically preferable to 
 FMC). Evaluation of C2b appears far more interesting than C2, and escapes Chapman’s responses. 
@@ -83,7 +83,7 @@ C2 nor any of its implied conclusions fall prey to such a reduction.
 <br><br>
 If this dismissal of (iv) seems hasty, we can give maximal leeway to Chapman’s intent by attempting to construct a plausible 
 implied argument from C2 to connect FMC and his end scenario of warning labels. Note that the alternative adoption assertion 
-is not relevant to (iv), so we can begin with only the targeting distinction (C2*). We can surmise that “targeting of 
+is not relevant to (iv), so we can begin with only the targeting distinction (C2\*). We can surmise that “targeting of 
 victims but not causes” is the  relevant characteristic of FMC, and that because it bears this characteristic it should be 
 categorically ruled unethical. Such a judgment of course requires justification (as discussed above), but let us ignore 
 that for the moment. If such targeting is the only criterion for categorical rejection, then all other interventions bearing 
@@ -100,16 +100,16 @@ procedural problems amenable to human factors engineering solutions), just as th
 behavioral promotion of smoking. However, whereas anti-tobacco FMC might be said to fail to target any meaningful causes 
 (where personal action is generally considered a product of addiction rather than choice), warning labels clearly address 
 a major causal factor driving undesirable outcomes. Thus, a brief evaluation finds it difficult to employ the proposed 
-reductio against C2*, and even were it successful, the problems remain that C2* is not the criticism Chapman presents, 
-and more importantly, no justification for the requisite ethical judgment from C2* is given. Thus, (iv) fails even though 
+reductio against C2\*, and even were it successful, the problems remain that C2\* is not the criticism Chapman presents, 
+and more importantly, no justification for the requisite ethical judgment from C2\* is given. Thus, (iv) fails even though 
 C2 is weakly constructed.
 <br><br>
 <h4>C3: FMC creates perceptions of criticism, devaluation, rejection, or stigmatization in those targeted; negative impacts 
-on health result, and are both predictable and ignored.</h4><br>b>
+on health result, and are both predictable and ignored.</h4><br>
 <b>Chapman:</b> Arguments from C3 are “mostly” applied to FMC targeting “personal behavior, as opposed to public health and 
 safety.” Chapman gives a long list of other-harming behaviors as contrast to the personal behavior subjects, and says 
 (sarcastically?) “some people deserve to be stigmatized, apparently.”
-<br>
+<br><br>
 <b>Phelan:</b> I should first observe that Chapman’s response to C3 does not constitute a rebuttal, as he provides no 
 reason we should discount this criticism. Instead, he again posits the existence of selectivity in the application of C3, 
 in this case to FMC’s of a certain kind. As with C1, I see no reason to believe that such selectivity should bear on the 
@@ -192,7 +192,7 @@ Accordingly, I reject the absolutism in Chapman’s construction of the fifth cr
 (“always”, “might”) presents a straw man of sorts, an unrealistic criticism against which Chapman can easily advance 
 counterarguments. Consider an emended(\*) fifth criticism:
 <br><br>
-<b>C5*:</b> We have a duty to avoid messaging that we can reasonably expect to be unacceptably upsetting (or distressing, 
+<b>C5\*:</b> We have a duty to avoid messaging that we can reasonably expect to be unacceptably upsetting (or distressing, 
 disturbing, etc.) to its recipients, where the weight of this duty is (for example) proportional to the degree of 
 unacceptability.
 <br><br>
@@ -219,7 +219,7 @@ the relevant behavior are targeted, their risk of the behavior is not necessaril
 FMC-related harm. 
 <br><br>
 Of course all of this does not imply that <i>any</i> potential harms should disqualify FMC as an option, but rather that 
-they should be examined both in detail and in context. Finally, it should be apparent that C5* escapes Chapman’s responses, 
+they should be examined both in detail and in context. Finally, it should be apparent that C5\* escapes Chapman’s responses, 
 as they only apply to the absurd absolutism in his original construction of C5.
 <br><br>
 <h4>Summary - My Appraisals</h4>
