@@ -81,7 +81,7 @@ warnings apparently used in Brazil dispelled that thought. I will describe them 
 can viewed through [this link](http://media.khi.org/img/photos/2010/11/10/brazilian_warning_labels.jpg), hosted 
 by the Kansas Health Institute).
 <br><br>
-<li>A deceased human fetus lying in an ashtray by cigarette butts.</li>
+<li>A deceased human fetus lying in an ashtray beside cigarette butts.</li>
 <li>A zombie-like female face revealed by looking through a cigarette pack.</li>
 <li>A gouged human head with torn scalp, abundant blood, and what appears to be visible brain.</li>
 <li>A gangrenous foot with a digit amputated.</li>
