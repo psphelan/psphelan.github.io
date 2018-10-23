@@ -14,7 +14,7 @@ dictionary did not indicate this in its definition:
 Dictionary)</blockquote>
 <br>
 “Fearmongering” would then seem to be a suitable label for the subject of a recent historical review and accompanying 
-commentary in the <i>American Journal of Public Health</i>. The former, by Fairchild and colleagues (2018), examines the 
+commentary in the <i>American Journal of Public Health</i>. The former, by [Fairchild and colleagues (2018)](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304516), examines the 
 use of “fear-based messaging” in public health campaigns and highlights past experience in public health responses to 
 tobacco use and HIV transmission during the early days of AIDS. The subject of discussion for this post is [Chapman’s (2018) 
 accompanying editorial](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304630). Chapman writes in support of the 
@@ -101,7 +101,7 @@ procedural problems amenable to human factors engineering solutions), just as th
 behavioral promotion of smoking. However, whereas anti-tobacco FMC might be said to fail to target any meaningful causes 
 (where personal action is generally considered a product of addiction rather than choice), warning labels clearly address 
 a major causal factor driving undesirable outcomes. Thus, a brief evaluation finds it difficult to employ the proposed 
-reductio against C2\*, and even were it successful, the problems remain that C2\* is not the criticism Chapman presents, 
+<i>reductio</i> against C2\*, and even were it successful, the problems remain that C2\* is not the criticism Chapman presents, 
 and more importantly, no justification for the requisite ethical judgment from C2\* is given. Thus, (iv) fails even though 
 C2 is weakly constructed.
 <br><br>
