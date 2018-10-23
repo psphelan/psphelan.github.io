@@ -72,7 +72,7 @@ This really piqued my interest, given that I had never seen any graphic warning 
 al. note, the proposed images were ever employed in product labeling). Upon locating the proposed images (apparently 
 courtesy of the U.S. Department of Health and Human Services), I was underwhelmed:
 <br><br><br>
-<img src="https://consumerist.com/consumermediallc.files.wordpress.com/2011/06/finalsmokingwarnings.jpg" align="middle">
+<center><img src="https://consumerist.com/consumermediallc.files.wordpress.com/2011/06/finalsmokingwarnings.jpg" align="middle"></center>
 <br><br><br>
 Fear? Sure. Gore? Not so much. The closest examples are the obviously Photoshopped images of a tracheostomy and a 
 lip ulcer; neither the seemingly-CG images of healthy and diseased lungs nor the stapled-shut median sternotomy incision 
