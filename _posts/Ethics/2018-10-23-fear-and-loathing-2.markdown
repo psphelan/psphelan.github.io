@@ -78,7 +78,7 @@ Fear? Sure. Gore? Not so much. The closest examples are the obviously Photoshopp
 lip ulcer; neither the seemingly-CG images of healthy and diseased lungs nor the stapled-shut median sternotomy incision 
 seem particularly gory to me. Initially I thought I might be underrating these images, but comparison with the graphic 
 warnings apparently used in Brazil dispelled that thought. I will describe them below but won’t display them (the images 
-can viewed through <a href=“http://media.khi.org/img/photos/2010/11/10/brazilian_warning_labels.jpg”>this link</a>, hosted 
+can viewed through [this link](http://media.khi.org/img/photos/2010/11/10/brazilian_warning_labels.jpg), hosted 
 by the Kansas Health Institute).
 <br><br>
 <li>A deceased human fetus lying in an ashtray by cigarette butts.</li>
