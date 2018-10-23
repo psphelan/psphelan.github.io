@@ -5,7 +5,8 @@ date:   2018-10-22 9:40:30
 categories: Ethics
 ---
 
-<img src="/images/Chapman.png">
+<img src="/images/Chapman_v2.png">
+<br><br>
 To my ear, the term “fearmongering” has a pejorative connotation, but in writing this post I was surprised to find that my 
 dictionary did not indicate this in its definition:
 <br><br>
@@ -53,7 +54,7 @@ discussion of C4.
 effectiveness. I am comfortable considering the question of effectiveness of to be “prior to” the question of ethicality 
 in this case.</i>
 <br><br>
-<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of \[more substantive measures.\]”</h4><br>
+<h4>C2: FMC’s target victims, not causes, “and so are soft options mounted in lieu of [more substantive measures.]”</h4><br>
 <b>Chapman:</b> (i) Virtually all major prevention programs entail both “policy reforms and motivational interventions.” 
 (ii) The implication (C2a) “that until governments are prepared to embrace the full panoply of policy and program solutions 
 to health problems, they should not implement any individual element of such comprehensive approaches” is incorrect. (iii) 
@@ -222,8 +223,7 @@ Of course all of this does not imply that <i>any</i> potential harms should disq
 they should be examined both in detail and in context. Finally, it should be apparent that C5\* escapes Chapman’s responses, 
 as they only apply to the absurd absolutism in his original construction of C5.
 <br><br>
-<h4>Summary - My Appraisals</h4>
-<br><br>
+<h4>Summary - My Appraisals</h4><br>
 In summary, I would assess Chapman’s presentation of the “five criticisms” as follows:
 <br><br>
 <b>C1:</b> Fairly constructed, and Chapman’s response conceded.<br>
