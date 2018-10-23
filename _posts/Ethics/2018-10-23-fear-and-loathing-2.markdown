@@ -65,8 +65,8 @@ This seems quite reasonable, for why should fear require offense?
 <br><br>
 Fairchild et al. later say,
 <br>
-<blockquote>”…nothing more tellingly reveals the embrace of fear and gore in the public health response to smoking than the 
-graphic tobacco warnings that the US Food and Drug Administration sought to place on cigarette packages.”</blockquote>
+<blockquote>…nothing more tellingly reveals the embrace of fear and gore in the public health response to smoking than the 
+graphic tobacco warnings that the US Food and Drug Administration sought to place on cigarette packages.</blockquote>
 <br><br>
 This really piqued my interest, given that I had never seen any graphic warning labels of this sort (though as Fairchild et 
 al. note, the proposed images were ever employed in product labeling). Upon locating the proposed images (apparently 
