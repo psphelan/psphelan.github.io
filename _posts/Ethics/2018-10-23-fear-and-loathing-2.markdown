@@ -89,7 +89,7 @@ by the Kansas Health Institute).
 <li>An unresponsive man lying next to open, spilt bottles of poison and what appears to be bloody emesis.</li>
 <li>A cadaver with a tracheostomy and a stapled-shut, broad, Y-shaped chest incision with substantial blood running down the 
 abdomen.</li>
-<br><br>
+<br>
 These seven of the ten total images I would describe as presenting variable degrees of gore, all of which are more intense 
 than any of the HHS images. Comparison of the chest incision images reveals the difference very clearly, as the HHS image 
 looks generally like a living human, whereas the Brazil image truly looks like a cadaver in a morgue. Both sets of images 
@@ -103,7 +103,7 @@ My general thought in comparing the two sets of images is that the Brazilian ima
 the image label (in Portuguese) “Impotence.”</li>
 <li>A woman and child with expressions of grief standing beside a sickly-appearing man in a hospital bed, attached to a 
 ventilator via a tracheostomy.</li>
-<br><br>
+<br>
 I have to conclude that Fairchild and colleagues are correct, that it is simply not necessary for fear-based messaging, 
 even of the visual (graphic) sort, to incorporate gruesome images with shock value. It it curious that Chapman focuses so 
 much on justifying this component, especially when the authors of his target article take a different tack. 
