@@ -7,11 +7,11 @@ categories: Ethics
 
 <img src="/images/Chapman_v2.png">
 <br><br>
-Following [Part 1](fear-and-loathing.markdown), here I will discuss the remainder of Chapman’s (2018) editorial regarding 
+Following [Part 1](ethics/2018/10/22/fear-and-loathing.html), here I will discuss the remainder of Chapman’s (2018) editorial regarding 
 the historical review by Fairchild and colleagues (2018).
 <br><br>
 <h4>“A Perverse Ethics”</h4><br>
-In the final section of [his editorial], Chapman addresses the question “is it unethical to upset?” He concludes in part with 
+In the final section of [his editorial](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304630), Chapman addresses the question “is it unethical to upset?” He concludes in part with 
 a statement that, “It is a perverse ethics that sees it as virtuous to keep powerful, life-changing information away from the 
 community simply because it upsets some people.” It should be unsurprising from my preceding discussion that I find this to 
 be simplistic rhetoric, and in this section Chapman makes several statements I find questionable. I shall examine them here.
@@ -60,14 +60,14 @@ so through extreme, graphic imagery. This is odd, because Fairchild and colleagu
 <blockquote>A fear-based appeal need not make populations quake with anxiety or recoil in disgust when faced with gruesome 
 images of death or disfigurement. Rather, fear-based messaging, whether an image or narrative, can make a threat feel 
 immediate and make target audiences feel vulnerable.</blockquote>
-<br><br>
+<br>
 This seems quite reasonable, for why should fear require offense?
 <br><br>
 Fairchild et al. later say,
 <br>
 <blockquote>…nothing more tellingly reveals the embrace of fear and gore in the public health response to smoking than the 
 graphic tobacco warnings that the US Food and Drug Administration sought to place on cigarette packages.</blockquote>
-<br><br>
+<br>
 This really piqued my interest, given that I had never seen any graphic warning labels of this sort (though as Fairchild et 
 al. note, the proposed images were ever employed in product labeling). Upon locating the proposed images (apparently 
 courtesy of the U.S. Department of Health and Human Services), I was underwhelmed:
