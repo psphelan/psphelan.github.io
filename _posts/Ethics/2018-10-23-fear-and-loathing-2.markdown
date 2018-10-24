@@ -7,13 +7,15 @@ categories: Ethics
 
 <img src="/images/Chapman_v2.png">
 <br><br>
-Following [Part 1](ethics/2018/10/22/fear-and-loathing.html), here I will discuss the remainder of Chapman’s (2018) editorial regarding 
+Following [Part 1](http://www.psphelan.com/ethics/2018/10/22/fear-and-loathing.html), here I will discuss the remainder of Chapman’s (2018) editorial regarding 
 the historical review by Fairchild and colleagues (2018).
 <br><br>
 <h4>“A Perverse Ethics”</h4><br>
 In the final section of [his editorial](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304630), Chapman addresses the question “is it unethical to upset?” He concludes in part with 
-a statement that, “It is a perverse ethics that sees it as virtuous to keep powerful, life-changing information away from the 
-community simply because it upsets some people.” It should be unsurprising from my preceding discussion that I find this to 
+this statement:
+<blockquote>It is a perverse ethics that sees it as virtuous to keep powerful, life-changing information away from the 
+community simply because it upsets some people.</blockquote><br>
+It should be unsurprising from my preceding discussion that I find this to 
 be simplistic rhetoric, and in this section Chapman makes several statements I find questionable. I shall examine them here.
 <br><br>
 <b>Chapman:</b> “Why is the goal of avoiding any communication that might make people feel uncomfortable or self-questioning 
