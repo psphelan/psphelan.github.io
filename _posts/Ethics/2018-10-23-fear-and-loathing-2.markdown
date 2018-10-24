@@ -136,7 +136,7 @@ not clearly “unethical,” it must still be justified over alternatives.
 <br><br>
 <h4>Conclusions</h4><br>
 In praising Fairchild and colleagues for their insight, Chapman accuses the field of public health of “confused thinking” 
-on fear-based messaging. On a critical reading, I am afraid Chapman may be guilty of the very fault he renounces, though I 
+on fear-based messaging. On a critical reading, I am afraid Chapman may be guilty of the very fault he denounces, though I 
 certainly agree that the role of fear in public health messaging “deserves wide discussion.” What is absent from Chapman’s 
 commentary but discussed extensively by Fairchild et al. is the role and reception of stigma derived from public health 
 messaging campaigns—I may return to this for discussion in the future.
