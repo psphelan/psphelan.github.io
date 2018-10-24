@@ -232,4 +232,4 @@ In summary, I would assess Chapman’s presentation of the “five criticisms”
 <b>C4:</b> Incompletely constructed, and Chapman’s responses fail.<br>
 <b>C5:</b> Unacceptably weakly constructed. Chapman’s responses are incomplete, and fail against emended construction.<br>
 <br><br>
-<i>…to be continued in Part 2</i>.
+<i>…to be continued in [Part 2](http://www.psphelan.com/ethics/2018/10/23/fear-and-loathing-2.html)</i>.
