@@ -8,7 +8,7 @@ categories: Ethics
 <br><br>
 <blockquote>“…Harry stared back into the face that had haunted his nightmares for three years. Whiter than a skull, with wide, livid scarlet eyes, and a nose that was as flat as a snake’s, with slits for nostrils...” (<a href="https://www.pottermore.com/book-extract-long/the-dark-lord-rises">Harry Potter and the Goblet of Fire</a>)</blockquote>
 <br><br>
-Brian Earp has a great publication ethics piece in the Spring 2016 HealthWatch UK Newsletter titled “The Unbearable Asymmetry of Bullshit” where he discusses a particular kind of illegitimate scientific publishing practice. Earp constructs a hypothetical perpetrator engaged in this sort of nefarious behavior, and amusingly names him Lord Voldemort. Earp is very clear to disclaim that our Dark Lord does not represent a real person:
+[Brian Earp](https://oxford.academia.edu/BrianDEarp) has a great publication ethics piece in the [Spring 2016 HealthWatch UK Newsletter](https://www.healthwatch-uk.org/images/Newsletters/Number_101.pdf) titled “The Unbearable Asymmetry of Bullshit” where he discusses a particular kind of illegitimate scientific publishing practice. Earp constructs a hypothetical perpetrator engaged in this sort of nefarious behavior, and amusingly names him Lord Voldemort. Earp is very clear to disclaim that our Dark Lord does not represent a real person:
 <br>
 <blockquote>While everything I am about to say is based on actual events, and on the real-life behavior of actual researchers, I will not be citing any specific cases (to avoid the drama). Moreover, we should be very careful not to confuse Lord Voldemort for any particular individual. He is an amalgam of researchers who do this; he is fictional.</blockquote>
 <br>
