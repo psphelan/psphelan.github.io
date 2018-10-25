@@ -6,7 +6,7 @@ categories: Ethics
 ---
 <img src="/images/Earp.png">
 <br><br>
-<blockquote>“…Harry stared back into the face that had haunted his nightmares for three years. Whiter than a skull, with wide, livid scarlet eyes, and a nose that was as flat as a snake’s, with slits for nostrils...” ([Harry Potter and the Goblet of Fire](https://www.pottermore.com/book-extract-long/the-dark-lord-rises))</blockquote>
+<blockquote>“…Harry stared back into the face that had haunted his nightmares for three years. Whiter than a skull, with wide, livid scarlet eyes, and a nose that was as flat as a snake’s, with slits for nostrils...” (<a href="https://www.pottermore.com/book-extract-long/the-dark-lord-rises">Harry Potter and the Goblet of Fire</a>)</blockquote>
 <br><br>
 Brian Earp has a great publication ethics piece in the Spring 2016 HealthWatch UK Newsletter titled “The Unbearable Asymmetry of Bullshit” where he discusses a particular kind of illegitimate scientific publishing practice. Earp constructs a hypothetical perpetrator engaged in this sort of nefarious behavior, and amusingly names him Lord Voldemort. Earp is very clear to disclaim that our Dark Lord does not represent a real person:
 <br>
