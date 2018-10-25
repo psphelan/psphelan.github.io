@@ -12,7 +12,7 @@ Brian Earp has a great publication ethics piece in the Spring 2016 HealthWatch U
 <br>
 <blockquote>While everything I am about to say is based on actual events, and on the real-life behavior of actual researchers, I will not be citing any specific cases (to avoid the drama). Moreover, we should be very careful not to confuse Lord Voldemort for any particular individual. He is an amalgam of researchers who do this; he is fictional.</blockquote>
 <br>
-I certainly do not intend any assertion to the contrary, but I must observe that one particular individual comes to mind that fits Earp’s description <i>extremely</i> well:
+I certainly do not intend any assertion to the contrary, but I must observe that one particular individual comes to mind who fits Earp’s description <i>extremely</i> well:
 <br>
 <blockquote>In this story, Lord Voldemort is a prolific proponent of a certain controversial medical procedure, call it X, which many have argued is both risky and unethical. It is unclear whether Lord Voldemort has a financial stake in X, or some other potential conflict of interest. But in any event he is free to press his own opinion. The problem is that Lord Voldemort doesn’t play fair. In fact, he is so intent on defending this hypothetical intervention that he will stop at nothing to flood the literature with arguments and data that appear to weigh decisively in its favor. 
 <br><br>
