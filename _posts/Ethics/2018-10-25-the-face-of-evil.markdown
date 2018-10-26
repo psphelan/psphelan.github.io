@@ -26,7 +26,7 @@ The next step is for our anti-hero to write a ‘systematic review’ at the end
 <br><br>
 The result of this artful exercise is a heavily skewed benefit-to-risk ratio in favor of X, which can now be cited by unsuspecting third-parties. Unless you know what Lord Voldemort is up to, that is, you won’t notice that the math has been rigged.</blockquote>
 <br>
-Like Earp, I will not name the individual I’m thinking of, and I only mention this at all to show that Earp’s description may resonate with a typical(?) reader. Thanks to Earp’s brilliant codename, I can simply refer to this person as You-Know-Who, and what I am interested in considering is You-Know-Who’s motives.
+Like Earp, I will not name the individual I’m thinking of, and I only mention this at all to show that Earp’s description may resonate with a typical(?) reader. Thanks to Earp’s brilliant codename, I can simply refer to this person as You-Know-Who, and what I am interested in considering are You-Know-Who’s motives.
 <br><br>
 Of course, J. K. Rowling’s Voldemort was just about pure evil, but is this a realistic possibility for You-Know-Who? The idea that our adversary is flush with classically antisocial traits seems especially uncharitable, though this is not to say that such individuals cannot attain professional positions of success from which they might engage in Earp’s subterfuge (I am reminded of an [eye-catching book](https://www.harpercollins.com/9780061147890/snakes-in-suits/) I saw on a clinical social worker’s shelf during my psychiatry rotation).
 <br><br>
