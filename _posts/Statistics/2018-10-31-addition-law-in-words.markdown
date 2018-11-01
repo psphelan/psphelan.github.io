@@ -10,7 +10,7 @@ When I was learning the basics of probability for the first time, I found that I
 The Addition Law concerns the probabilities of outcomes which fall within certain sets of interest. These sets can be thought of as conditions which are met (or not) by elements of the sample space (i.e. potential outcomes). We can think of “event” <i>A</i> as identifying the case that an outcome <i>x</i> satisfies condition <i>A</i>. The Law states that the probability of the union of two events (<i>A</i> &cup; <i>B</i>) is equal to the sum of the individual probabilities of the events minus the probability of the intersection of the events (<i>A</i> &cap; <i>B</i>):
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i>) + Pr(<i>B</i>) - Pr(<i>A</i> &cap; <i>B</i>)
-</center><br><br>
+</center><br>
 In words, this means that the probability of an outcome satisfying <i>at least one of</i> (i.e., either or both of) conditions <i>A</i> and <i>B</i> is equal to the probability that the outcome will satisfy condition <i>A</i>, plus the probability that the outcome will satisfy condition <i>B</i>, minus the probability that the outcome will satisfy <i>both</i> conditions <i>A</i> and <i>B</i>.
 <br><br>
 Something about this never struck me as intuitive, at least not as presented above. Of course, if the two conditions are mutually exclusive (i.e. the sets do not overlap), Pr(<i>A</i> &cap; <i>B</i>) = 0, so the union probability is simply the sum of the individual condition probabilities—that’s all easy to see.
@@ -20,29 +20,29 @@ The explanation for the subtracted term in the general equation states that the 
 Beginning with the (much more intuitive) equation for the case of mutually exclusive condition sets, we have:
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i>) + Pr(<i>B</i>)
-</center><br><br>
+</center><br>
 As noted above, this is valid because there are no outcomes satisfying both conditions (the sets do not overlap). If we wish to extend a formal definition of the union probability to a case of non-mutually exclusive conditions, we must modify this equation somehow. We can find the way forward by parsing the condition probabilities.
 <br><br>
 If some elements of the sample space will satisfy both conditions, then each of the condition probabilities in the equation can be parsed to probabilities of outcomes satisfying <i>only</i> the given condition and those satisfying <i>both</i> the given condition <i>and</i> the second condition. In words, the parsed equation is:
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) ≠ Pr(<i>A</i> <b>only</b>) + Pr(<i>A</i> <b>and</b> <i>B</i>) + Pr(<i>B</i> <b>only</b>) + Pr(<i>B</i> <b>and</b> <i>A</i>)
-</center><br><br>
+</center><br>
 The doubly satisfied conditions are ordered above to show that they correspond to the first and second terms in the original equation that have been parsed, but there is of course no difference between first stating one met condition or the other. Explicitly:
 <br><br><center>
 Pr(<i>A</i> <b>and</b> <i>B</i>) = Pr(<i>B</i> <b>and</b> <i>A</i>)
-</center><br><br>
+</center><br>
 Thus, we can simplify the parsed equation to:
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) ≠ Pr(<i>A</i> <b>only</b>) + Pr(<i>B</i> <b>only</b>) + 2 Pr(<i>A</i> <b>and</b> <i>B</i>)
-</center><br><br>
+</center><br>
 As this effectively represents the outcomes as complementary portions of the sample space, grouped by the conditions met, we can see that there are only three types of outcomes: <i>x</i> meets <i>A</i> only, <i>B</i> only, or both. Yet, as written above, the original equation is counting the last group <i>precisely</i> twice, and once too many. The correction to ensure validity in the non-mutually exclusive case is thus to subtract this term once (and note that the equality sign is then returned):
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i> <b>only</b>) + Pr(<i>B</i> <b>only</b>) + 2 Pr(<i>A</i> <b>and</b> <i>B</i>) - Pr(<i>A</i> <b>and</b> <i>B</i>)
-</center><br><br>
+</center><br>
 We move from this equation to the standard statement of the Addition Law by recombining our parsed terms:
 <br><br><center>
 Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i>) + Pr(<i>B</i>) - Pr(<i>A</i> <b>and</b> <i>B</i>)
-</center><br><br>
+</center><br>
 The final term is defined as the intersection of <i>A</i> and <i>B</i>, so the final form notation of the equation above is:
 <br><br><center>
-Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i>) + Pr(<i>B</i>) - Pr(<i>A</i> &cap; <i>B</i>)
+Pr(<i>A</i> &cup; <i>B</i>) = Pr(<i>A</i>) + Pr(<i>B</i>) - Pr(<i>A</i> &cap; <i>B</i>)</center>
