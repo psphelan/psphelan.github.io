@@ -4,14 +4,13 @@ title:  "Science and Empty Ethics"
 date:   2019-02-21 12:30:30
 categories: Ethics
 ---
-<img src="/images/G_G.png">
-<br><br>
+
 <blockquote>Although the philosophical literature on animal ethics is quite sizable, articles relating to the ethics of animal research only rarely appear in scientific journals, with scientists seldom publishing on the issue in other forums. When such articles from the scientific community do appear, they tend to be short, tend not to substantively engage ethical criticisms and arguments relevant to animal research, and are all too often highly inflammatory. - Rossi & Garner (2018)</blockquote>
 <br>
 The above observation is offered by John Rossi and Samual A. Garner in their essay contribution to the recently published compendium, “[The Ethical Case Against Animal Experimentation](https://www.jstor.org/stable/10.5406/j.ctt2050vt5).” In this post I critique a contemporary example of this phenomenon.
 
 <h4>Stakes & Claims</h4>
-
+<br>
 I recently encountered an article by authors Silvio Garattini and Giuliano Grignaschi, entitled “[Animal testing is still the best way to find new treatments for patients](https://www.sciencedirect.com/science/article/pii/S0953620516304101),” published in 2017 in the <i>European Journal of Internal Medicine</i>. From the title it is clear that the authors are making (at least) an evaluative claim about the role of animal experimentation in medical research relative to other research methods. The paper’s first two paragraphs, which serve as the abstract, give a general overview of the experimental scientific process in medicine, and end abruptly with the following conclusion:
 <br>
 <blockquote>Without these preliminary studies in vitro and in vivo in selected animal species it would be unethical to test still unproven chemicals in humans.</blockquote>
@@ -37,7 +36,7 @@ The authors make one further statement worth noting, immediately prior to their 
 Although benefit to non-human animals is quite possibly a relevant ethical consideration, this observation only serves to highlight the ethical complexity of the very issue they neglect in their article.
 
 <h4>Lighting It Up?</h4>
-
+<br>
 It is further unfortunate that the authors concluding remarks appear to contain the very “inflammatory language” that Rossi & Garner describe:
 <br>
 <blockquote>The pressure of public opinion, particularly of organized groups of “animalists”, obliges preclinical and clinical scientists to come out of their “ivory tower” to explain the complexity of translating research results from animals to man. - Garattini & Grignaschi (2017)</blockquote>
@@ -45,5 +44,5 @@ It is further unfortunate that the authors concluding remarks appear to contain 
 Although the “ivory tower” of academia is arguably a general knowledge concept, they offer no citation or footnote to clarify what they mean by “animalists.” It is probably <i>not</i> referring to proponents of [philosophical animalism](https://plato.stanford.edu/archives/win2016/entries/animalism/), a position which concerns, in part, the “fundamental nature” of human persons. It is <i>also</i> probably not related to the sense of “animalism” given by my dictionary (New Oxford American Dictionary) as “behavior that is characteristic of or appropriate to animals, particularly in being physical and instinctive.” My best guess is that their usage is in the spirit of my dictionary’s second sense of animalism: “religious worship of or concerning animals.” If I am correct, I imagine their use is analogous rather than literal, probably conceiving of activists’ fervor for animal wellbeing as comparable to religious zeal. Still, it seems hard to deny that choosing “animalists” over other more descriptive terms invites at least the <i>perception</i> of pejorative connotation, if not its intention. Although one could argue they take equal opportunity to condemn “both sides” with their use of “ivory tower,” the authors certainly missed an opportunity to avoid slighting those readers they wish to convince.
 
 <h4>The Empty Vase</h4>
-
+<br>
 In his 2007 essay, “[Unscientific Ethics: Science and Selective Ethics](https://onlinelibrary.wiley.com/doi/full/10.1353/hcr.2007.0000),” David Benatar highlights the pernicious selectivity with which scientists admit ethical arguments for consideration when evaluating science’s own practices. Through recounting a personal experience with this issue, Benatar illustrates well the way scientists may “pay mere lip service to ethics” without seriously and honestly engaging the issues and views at hand. If we consider that disingenuous attention to ethics can manifest through selectivity, the practice employed in Garattini and Grignaschi’s article is surely a greater failing, for there are no substantial ethical considerations admitted at all. Beyond being selective, leveling ethical judgments without substance is simply empty rhetoric. Conclusions like theirs may be superficially appealing, and may even encapsulate the authors’ views accurately, but they offer nothing of intellectual value.
