@@ -7,7 +7,7 @@ categories: Ethics
 
 <blockquote>Although the philosophical literature on animal ethics is quite sizable, articles relating to the ethics of animal research only rarely appear in scientific journals, with scientists seldom publishing on the issue in other forums. When such articles from the scientific community do appear, they tend to be short, tend not to substantively engage ethical criticisms and arguments relevant to animal research, and are all too often highly inflammatory. - Rossi & Garner (2018)</blockquote>
 <br>
-The above observation is offered by John Rossi and Samual A. Garner in their essay contribution to the recently published compendium, “[The Ethical Case Against Animal Experimentation](https://www.jstor.org/stable/10.5406/j.ctt2050vt5).” In this post I critique a contemporary example of this phenomenon.
+The above observation is offered by John Rossi and Samual A. Garner in their essay contribution to the recently published compendium, “[The Ethical Case Against Animal Experiments](https://www.jstor.org/stable/10.5406/j.ctt2050vt5).” In this post I critique a contemporary example of this phenomenon.
 
 <h4>Stakes & Claims</h4>
 <br>
